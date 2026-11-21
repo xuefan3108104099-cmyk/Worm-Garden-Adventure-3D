@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Course material supplied by the lecturer - kept locally, not committed
+docs/Handbook.pdf
+docs/Handbook.txt
+docs/Start2Dto3D.docx
+docs/Start2Dto3D_extracted.txt
+
+# Scratch
+*.log
